@@ -3,8 +3,6 @@
 Hey there! This project was built to develop HTML and CSS skills!
 
  ![Home Screen](https://github.com/brenogpa/noticia-cidade/blob/master/imagens/Captura%20de%20tela%202021-01-25%20203226.png)
- ![](https://github.com/brenogpa/noticia-cidade/blob/master/imagens/Captura%20de%20tela%202021-01-25%20203308.png)
- ![](https://github.com/brenogpa/noticia-cidade/blob/master/imagens/Captura%20de%20tela%202021-01-25%20203330.png)
 
 
 ## Technology 
